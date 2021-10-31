@@ -14,7 +14,7 @@ textarea{
 
 button{
     width: 120px;
-    height: 30px;
+    height: 25px;
     background-color: #282828;
     border: none;
     color: #fff;
@@ -45,7 +45,20 @@ button{
 
 .edit-btn{
     /*il mutam dreapta in colt*/
+    
     position: absolute;
     top:0px;
     right:0px;
+}
+
+.delete-btn{
+    /*il mutam dreapta in colt*/
+   
+    position: absolute;
+    top:0px;
+    right: 130px;
+}
+
+h4{
+    color: red;
 }
